@@ -1,0 +1,1674 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should match snapshot 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "white",
+      "display": "flex",
+      "flexDirection": "column",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "20%",
+        "width": "100%",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "paddingLeft": "0px",
+        }
+      }
+    >
+      <div>
+        <article
+          className="ant-typography"
+          onClick={[Function]}
+        >
+          <span
+            aria-label="menu"
+            className="anticon anticon-menu"
+            role="img"
+            style={
+              Object {
+                "color": "black",
+                "fontSize": "25px",
+              }
+            }
+          >
+            <svg
+              aria-hidden="true"
+              data-icon="menu"
+              fill="currentColor"
+              focusable="false"
+              height="1em"
+              viewBox="64 64 896 896"
+              width="1em"
+            >
+              <path
+                d="M904 160H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0 624H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0-312H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8z"
+              />
+            </svg>
+          </span>
+        </article>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "black",
+        "textAlign": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <div
+      className="ant-carousel"
+    >
+      <div
+        className="slick-slider slick-initialized"
+        dir="ltr"
+      >
+        <div
+          className="slick-list"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={null}
+          onMouseMove={null}
+          onMouseUp={[Function]}
+          onTouchCancel={null}
+          onTouchEnd={[Function]}
+          onTouchMove={null}
+          onTouchStart={[Function]}
+          style={Object {}}
+        >
+          <div
+            className="slick-track"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "WebkitTransform": "translate3d(0px, 0px, 0px)",
+                "WebkitTransition": "",
+                "msTransform": "translateX(0px)",
+                "opacity": 1,
+                "transform": "translate3d(0px, 0px, 0px)",
+                "transition": "",
+              }
+            }
+          >
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={-1}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/5.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={false}
+              className="slick-slide slick-active slick-current"
+              data-index={0}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/11.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide"
+              data-index={1}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/3.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide"
+              data-index={2}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/5.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide"
+              data-index={3}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/2.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide"
+              data-index={4}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/1.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide"
+              data-index={5}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/9.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide"
+              data-index={6}
+              onClick={[Function]}
+              style={
+                Object {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/5.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={7}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/11.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={8}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/3.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={9}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/5.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={10}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/2.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={11}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/1.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={12}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/9.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={true}
+              className="slick-slide slick-cloned"
+              data-index={13}
+              onClick={[Function]}
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "backgroundRepeat": "no-repeat",
+                      "backgroundSize": "cover",
+                      "height": "70vh",
+                      "width": "100vw",
+                    }
+                  }
+                >
+                  <div
+                    className="ant-image"
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "height": undefined,
+                        "width": undefined,
+                      }
+                    }
+                  >
+                    <img
+                      className="ant-image-img"
+                      onError={[Function]}
+                      onLoad={[Function]}
+                      src="assets/post/5.jpeg"
+                      style={
+                        Object {
+                          "height": undefined,
+                        }
+                      }
+                    />
+                    <div
+                      className="ant-image-mask"
+                    >
+                      <div
+                        className="ant-image-mask-info"
+                      >
+                        <span
+                          aria-label="eye"
+                          className="anticon anticon-eye"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="eye"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                            />
+                          </svg>
+                        </span>
+                        Preview
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <ul
+          className="slick-dots slick-dots-bottom"
+          onMouseEnter={null}
+          onMouseLeave={null}
+          onMouseOver={null}
+          style={
+            Object {
+              "display": "block",
+            }
+          }
+        >
+          <li
+            className="slick-active"
+          >
+            <button
+              onClick={[Function]}
+            >
+              1
+            </button>
+          </li>
+          <li
+            className=""
+          >
+            <button
+              onClick={[Function]}
+            >
+              2
+            </button>
+          </li>
+          <li
+            className=""
+          >
+            <button
+              onClick={[Function]}
+            >
+              3
+            </button>
+          </li>
+          <li
+            className=""
+          >
+            <button
+              onClick={[Function]}
+            >
+              4
+            </button>
+          </li>
+          <li
+            className=""
+          >
+            <button
+              onClick={[Function]}
+            >
+              5
+            </button>
+          </li>
+          <li
+            className=""
+          >
+            <button
+              onClick={[Function]}
+            >
+              6
+            </button>
+          </li>
+          <li
+            className=""
+          >
+            <button
+              onClick={[Function]}
+            >
+              7
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "flex": 3,
+        "padding": 10,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "#A8A8A8",
+          "padding": 10,
+          "textAlign": "center",
+        }
+      }
+    >
+      <article
+        className="ant-typography"
+        style={
+          Object {
+            "color": "black",
+            "flex": 1,
+            "fontFamily": "Open Sans",
+            "fontSize": "35px",
+          }
+        }
+      >
+        Your Journey with Pet Arena
+      </article>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "padding": 50,
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "padding": 10,
+          }
+        }
+      >
+         
+        <div
+          className="ant-image"
+          onClick={[Function]}
+          style={
+            Object {
+              "height": 500,
+              "width": 500,
+            }
+          }
+        >
+          <img
+            className="ant-image-img"
+            onError={[Function]}
+            onLoad={[Function]}
+            src="https://dm6g3jbka53hp.cloudfront.net/static-images/adopt-me-pet-02032021.jpg"
+            style={
+              Object {
+                "height": 500,
+              }
+            }
+          />
+          <div
+            className="ant-image-mask"
+          >
+            <div
+              className="ant-image-mask-info"
+            >
+              <span
+                aria-label="eye"
+                className="anticon anticon-eye"
+                role="img"
+              >
+                <svg
+                  aria-hidden="true"
+                  data-icon="eye"
+                  fill="currentColor"
+                  focusable="false"
+                  height="1em"
+                  viewBox="64 64 896 896"
+                  width="1em"
+                >
+                  <path
+                    d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                  />
+                </svg>
+              </span>
+              Preview
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "padding": 100,
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "padding": 20,
+            }
+          }
+        >
+          <div
+            className="ant-image"
+            onClick={[Function]}
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          >
+            <img
+              className="ant-image-img"
+              onError={[Function]}
+              onLoad={[Function]}
+              src="7.png"
+              style={
+                Object {
+                  "height": 50,
+                }
+              }
+            />
+            <div
+              className="ant-image-mask"
+            >
+              <div
+                className="ant-image-mask-info"
+              >
+                <span
+                  aria-label="eye"
+                  className="anticon anticon-eye"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="eye"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                    />
+                  </svg>
+                </span>
+                Preview
+              </div>
+            </div>
+          </div>
+          <div>
+            <article
+              className="ant-typography"
+              style={
+                Object {
+                  "fontFamily": "Open Sans",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              Search pet
+            </article>
+            <article
+              className="ant-typography"
+              style={
+                Object {
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              Select animal and breed to begin your search
+            </article>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "padding": 20,
+            }
+          }
+        >
+          <div
+            className="ant-image"
+            onClick={[Function]}
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          >
+            <img
+              className="ant-image-img"
+              onError={[Function]}
+              onLoad={[Function]}
+              src="dog-house.png"
+              style={
+                Object {
+                  "height": 50,
+                }
+              }
+            />
+            <div
+              className="ant-image-mask"
+            >
+              <div
+                className="ant-image-mask-info"
+              >
+                <span
+                  aria-label="eye"
+                  className="anticon anticon-eye"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="eye"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                    />
+                  </svg>
+                </span>
+                Preview
+              </div>
+            </div>
+          </div>
+          <article
+            className="ant-typography"
+            style={
+              Object {
+                "fontFamily": "Open Sans",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "paddingLeft": 40,
+              }
+            }
+          >
+            Adopt Love 
+          </article>
+        </div>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "padding": 20,
+            }
+          }
+        >
+          <div
+            className="ant-image"
+            onClick={[Function]}
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          >
+            <img
+              className="ant-image-img"
+              onError={[Function]}
+              onLoad={[Function]}
+              src="8.png"
+              style={
+                Object {
+                  "height": 50,
+                }
+              }
+            />
+            <div
+              className="ant-image-mask"
+            >
+              <div
+                className="ant-image-mask-info"
+              >
+                <span
+                  aria-label="eye"
+                  className="anticon anticon-eye"
+                  role="img"
+                >
+                  <svg
+                    aria-hidden="true"
+                    data-icon="eye"
+                    fill="currentColor"
+                    focusable="false"
+                    height="1em"
+                    viewBox="64 64 896 896"
+                    width="1em"
+                  >
+                    <path
+                      d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z"
+                    />
+                  </svg>
+                </span>
+                Preview
+              </div>
+            </div>
+          </div>
+          <div>
+            <article
+              className="ant-typography"
+              style={
+                Object {
+                  "fontFamily": "Open Sans",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "paddingLeft": 40,
+                }
+              }
+            >
+              Vet Consultation
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
